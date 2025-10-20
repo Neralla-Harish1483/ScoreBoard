@@ -1,0 +1,8 @@
+.score-board{
+  background-color: var(--primary);
+  height: 200px;
+  flex-direction: column;
+}
+.score-board-content{
+  font-size: 100px;
+}

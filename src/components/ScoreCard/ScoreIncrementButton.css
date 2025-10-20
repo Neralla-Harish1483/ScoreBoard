@@ -1,0 +1,17 @@
+.score-increment{
+  padding: 20px;
+  width: 100px;
+  background-color: var(--secondary);
+  color: black;
+  margin-top: 10px;
+  border: none;
+  border-radius: 10px;
+  margin-left: 10px;
+
+}
+
+.score-increment:hover{
+  background-color: black;
+  color: var(--secondary);
+  border: var(--secondary);
+}
