@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ScoreBoard/static/css/main.fe20bbd0.css",
+    "main.js": "/ScoreBoard/static/js/main.89641ced.js",
+    "static/js/453.54da84d9.chunk.js": "/ScoreBoard/static/js/453.54da84d9.chunk.js",
+    "index.html": "/ScoreBoard/index.html",
+    "main.fe20bbd0.css.map": "/ScoreBoard/static/css/main.fe20bbd0.css.map",
+    "main.89641ced.js.map": "/ScoreBoard/static/js/main.89641ced.js.map",
+    "453.54da84d9.chunk.js.map": "/ScoreBoard/static/js/453.54da84d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe20bbd0.css",
+    "static/js/main.89641ced.js"
+  ]
+}
